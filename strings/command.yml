@@ -14,7 +14,7 @@
 PING_COMMAND : ["ping"]
 START_COMMAND : ["skytrixsz"]
 HELP_COMMAND : ["mhelp"]
-SETTINGS_COMMAND : ["settings", "setting"]
+SETTINGS_COMMAND : ["msettings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["stats"]
